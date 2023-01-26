@@ -9,4 +9,7 @@ for sklep, rzeczy in lista_zakupów.items():
 for i in lista_zakupów.values():
     sum = len(i)
     sum = sum + sum
-print(f"W sumie kupuję {sum} produktów produktów")
+print(f"W sumie kupuję {sum} produktów produktów, zjem je wszystkie")
+
+print("Na pewno będą dobre")
+
