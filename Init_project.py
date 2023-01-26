@@ -13,3 +13,7 @@ print(f"W sumie kupuję {sum} produktów produktów, zjem je wszystkie")
 
 print("Na pewno będą dobre")
 
+print("godzinę później")
+print("Zjedłem wszystko, boli mnie brzuch")
+
+
